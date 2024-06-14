@@ -1,0 +1,12 @@
+#!/bin/sh
+
+
+
+airdopes_mac="35:E5:56:87:CC:DC"
+
+
+bluetoothctl power on
+bluetoothctl connect $airdopes_mac
+
+
+notify-send "Bletooth connectd Sucessfully"

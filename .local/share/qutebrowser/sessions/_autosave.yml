@@ -1,0 +1,56 @@
+windows:
+- geometry: !!binary |
+    AdnQywADAAAAAAAFAAAAGwAABB8AAAQyAAAACAAAAB4AAAQcAAAELwAAAAAAAAAAB4AAAAAIAAAA
+    HgAABBwAAAQv
+  tabs:
+  - active: true
+    history:
+    - last_visited: '2024-06-14T11:40:24'
+      pinned: false
+      title: DuckDuckGo — Privacy, simplified.
+      url: https://start.duckduckgo.com/
+    - last_visited: '2024-06-14T11:41:47'
+      pinned: false
+      title: bugswriter dotfiles at DuckDuckGo
+      url: https://duckduckgo.com/?t=h_&hps=1&start=1&q=bugswriter+dotfiles&ia=web
+    - last_visited: '2024-06-14T11:41:56'
+      pinned: false
+      title: GitHub - Bugswriter/dotfiles
+      url: https://github.com/Bugswriter/dotfiles
+    - last_visited: '2024-06-14T11:41:57'
+      pinned: false
+      title: dotfiles/.local at master · Bugswriter/dotfiles · GitHub
+      url: https://github.com/Bugswriter/dotfiles/tree/master/.local
+    - last_visited: '2024-06-14T11:42:01'
+      pinned: false
+      title: dotfiles/.local/bin at master · Bugswriter/dotfiles · GitHub
+      url: https://github.com/Bugswriter/dotfiles/tree/master/.local/bin
+    - last_visited: '2024-06-14T11:42:03'
+      pinned: false
+      title: dotfiles/.local/bin/dwm_bar at master · Bugswriter/dotfiles · GitHub
+      url: https://github.com/Bugswriter/dotfiles/blob/master/.local/bin/dwm_bar
+    - last_visited: '2024-06-14T11:44:00'
+      pinned: false
+      title: Error · GitHub
+      url: https://github.com/Bugswriter/dotfiles/tree/master/.local/bin
+    - last_visited: '2024-06-14T11:44:42'
+      pinned: false
+      title: GitHub - Bugswriter/dotfiles
+      url: https://github.com/Bugswriter/dotfiles/tree/master
+    - last_visited: '2024-06-14T11:44:43'
+      pinned: false
+      title: dotfiles/.config at master · Bugswriter/dotfiles · GitHub
+      url: https://github.com/Bugswriter/dotfiles/tree/master/.config
+    - last_visited: '2024-06-14T11:44:45'
+      pinned: false
+      title: dotfiles/.config/x11 at master · Bugswriter/dotfiles · GitHub
+      url: https://github.com/Bugswriter/dotfiles/tree/master/.config/x11
+    - active: true
+      last_visited: '2024-06-14T11:44:47'
+      pinned: false
+      scroll-pos:
+        x: 0
+        y: 182
+      title: dotfiles/.config/x11/xinitrc at master · Bugswriter/dotfiles · GitHub
+      url: https://github.com/Bugswriter/dotfiles/blob/master/.config/x11/xinitrc
+      zoom: 1.0
